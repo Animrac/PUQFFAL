@@ -1,5 +1,6 @@
 # PUQFFAL!!!
-A series of story-based games I've made with Ren'Py, a visual novel engine.
+Pippy's Ultimate Quest for Friendship (and Lessons)!!! is a series of story-based games I've made with Ren'Py, a Python-based visual novel engine.
+
 Ren'Py can be found here: https://github.com/renpy/renpy
 
 Each of these are to be played in chronological order of when I made them:
