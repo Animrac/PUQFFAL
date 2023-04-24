@@ -11,7 +11,7 @@ To play them on your web browser or on Android, please head over to: https://min
 
 # How to Play:
 
-1. Download the game with your operating system
+    1. Download the game with your operating system
 
 If on PC (Windows):
 
