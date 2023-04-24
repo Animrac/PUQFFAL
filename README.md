@@ -10,7 +10,6 @@ Each of these are to be played in chronological order of when I made them:
 To play them on your web browser or on Android, please head over to: https://mintglow.itch.io/
 
 # How to Play:
-
 1. Download the game with your operating system
 
 If on PC (Windows):
